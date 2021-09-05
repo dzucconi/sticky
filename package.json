@@ -8,7 +8,7 @@
     "@testing-library/user-event": "12.8.3",
     "@types/jest": "26.0.24",
     "@types/node": "12.20.23",
-    "@types/react": "16.14.14",
+    "@types/react": "16.14.15",
     "@types/react-dom": "16.9.14",
     "frame-interval": "1.0.47",
     "react": "17.0.2",
